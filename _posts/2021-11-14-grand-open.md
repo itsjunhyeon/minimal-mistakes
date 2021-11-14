@@ -20,3 +20,10 @@ aboutMe()
 ```
 
 ![jeju-island](../assets/images/2021-11-14-grand-open/jeju-island.jpg)
+
+***
+
+<u>🚨<span style = "color:green">Real time posting available</span>🚨</u>
+
+***
+
