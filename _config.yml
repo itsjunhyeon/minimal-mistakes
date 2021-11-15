@@ -92,7 +92,10 @@ analytics:
 author:
   name             : "itsjh"
   avatar           : "/assets/images/profile/profile.jpg"
-  bio              : "Development & Studying\n**PYTHON**\n**C**\n**JAVA**"
+  bio              : "Development & Studying
+  **PYTHON**
+  **C**
+  **JAVA**"
   location         : "Busan, South Korea"
   email            : 
   links:
