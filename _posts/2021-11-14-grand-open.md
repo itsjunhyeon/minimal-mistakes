@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Grand Opening!"
+categories: Undefined
 ---
 
 # My blog is having its Grand-Opening today!
