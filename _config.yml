@@ -94,7 +94,7 @@ author:
   avatar           : "/assets/images/profile/profile.jpg"
   bio              : "Development & Studying\n**PYTHON**\n**C**\n**JAVA**"
   location         : "Busan, South Korea"
-  email            : "itsjh1242@gmail.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
