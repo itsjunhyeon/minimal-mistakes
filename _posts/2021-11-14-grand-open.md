@@ -21,7 +21,7 @@ aboutMe()
 
 ```
 
-https://raw.githack.com/itsjh1242/itsjh1242.github.io/master/assets/images/2021-11-14-grand-open/jeju-island.jpg
+![jeju-island](../assets/images/2021-11-14-grand-open/jeju-island-16369465635011.jpg)
 
 ***
 
