@@ -3,10 +3,20 @@ layout: single
 title: "Grand Opening!"
 categories: Undefined
 tag: [undefined, introduce]
-toc: true # contents view
+toc: true # contents view 
 ---
 
-# My blog is having its Grand-Opening today!
+
+
+## ㅁIntro
+
+## **Intro**
+
+### history
+
+> My blog is having its Grand-Opening today! 
+>
+> 2021-11-14
 
 ```python
 def opening():
