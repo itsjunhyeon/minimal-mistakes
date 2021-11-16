@@ -3,7 +3,8 @@ layout: single
 title: "Grand Opening!"
 categories: Undefined
 tag: [undefined, introduce]
-toc: true # contents view 
+toc: true # contents view
+author_profile: false # hide profile
 ---
 
 ## **Intro**
