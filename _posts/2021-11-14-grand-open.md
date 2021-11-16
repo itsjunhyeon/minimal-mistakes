@@ -6,13 +6,9 @@ tag: [undefined, introduce]
 toc: true # contents view 
 ---
 
-
-
-## ㅁIntro
-
 ## **Intro**
 
-### history
+### -history
 
 > My blog is having its Grand-Opening today! 
 >
