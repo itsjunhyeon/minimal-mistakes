@@ -6,7 +6,7 @@ tag: [undefined, introduce]
 toc: true # contents view
 #author_profile: false # hide profile
 ---
-**[Notice]** please comment on this page if you mind😍
+**[Notice]** [please comment on this page if you mind😍]
 {: .notice--success}
 
 ## **Intro**
