@@ -3,6 +3,7 @@ layout: single
 title: "Grand Opening!"
 categories: Undefined
 tag: [undefined, introduce]
+toc: true # contents view
 ---
 
 # My blog is having its Grand-Opening today!
