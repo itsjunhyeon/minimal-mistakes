@@ -4,7 +4,7 @@ title: "Grand Opening!"
 categories: Undefined
 tag: [undefined, introduce]
 toc: true # contents view
-author_profile: false # hide profile
+#author_profile: false # hide profile
 ---
 
 ## **Intro**
